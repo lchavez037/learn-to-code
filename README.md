@@ -4,7 +4,7 @@ Collection of sites to help you learn how to program and learn about computer sc
 
 ## Beginner Skill Level
 ---
-If you are not sure where to begin and just want to understand the basics of programming.
+Start here if you are not sure where to begin and just want to understand the basics of programming.
 
 ### [Scratch](https://scratch.mit.edu/)
 
