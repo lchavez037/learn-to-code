@@ -20,17 +20,29 @@ Info taken from [Main Page](https://www.khanacademy.org/hourofcode).
 
 ### [Code Club World Projects](https://codeclubprojects.org/en-GB/)
 
-Info take from [About page](https://www.codeclubworld.org/about/).
+Info taken from [About page](https://www.codeclubworld.org/about/).
 > We provide easy to follow coding projects which help children learn Scratch, HTML & CSS and Python by making games, animations and websites. The projects gradually introduce coding concepts to allow children to grow their understanding of digital making. This gradual approach also means there's no need for the adult running the session to be a computing expert.
 
 ## Intermediate Skill Level
 ---
+Links to various free to start programming courses that offer challenging material to study from.
 
-[Code Academy](https://www.codecademy.com/)
+### [Code Academy](https://www.codecademy.com/)
 
-[Data Quest](https://www.dataquest.io/)
+Info taken from [About page](https://www.codecademy.com/about)
+> Codecademy is an education company. But not one in the way you might think. We're committed to building the best learning experience inside and out, making Codecademy the best place for our team to learn, teach, and create the online learning experience of the future.
 
-[Learn GitHub](https://services.github.com/on-demand/)
+### [Data Quest](https://www.dataquest.io/)
+
+Info taken from [Main page](https://www.dataquest.io/)
+> Our hands-on method teaches you all the skills you need to become a data scientist, data analyst, or data engineer.
+> Learn by writing code, working with data, and building projects in your browser.
+
+### [Code Schoool](https://www.codeschool.com/)
+
+Info taken from [Main page](https://www.codeschool.com/)
+> Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. We strive to help you learn by doing.
+
 
 ## Advanced Skill Level
 ---
@@ -40,7 +52,7 @@ Info take from [About page](https://www.codeclubworld.org/about/).
 [HackerRank](https://www.hackerrank.com/)
 
 ## Classroom Style Learning
-
+---
 
 [LaunchCode](https://www.launchcode.org/)
 
