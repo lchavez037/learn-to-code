@@ -19,6 +19,7 @@ Info taken from [Main Page](https://www.khanacademy.org/hourofcode).
 ### [Code Club World Projects](https://codeclubprojects.org/en-GB/)
 Info taken from [About page](https://www.codeclubworld.org/about/).
 > We provide easy to follow coding projects which help children learn Scratch, HTML & CSS and Python by making games, animations and websites. The projects gradually introduce coding concepts to allow children to grow their understanding of digital making. This gradual approach also means there's no need for the adult running the session to be a computing expert.
+
 ---
 
 ## Intermediate Skill Level
@@ -37,6 +38,7 @@ Info taken from [Main page](https://www.dataquest.io/).
 ### [Code Schoool](https://www.codeschool.com/)
 Info taken from [Main page](https://www.codeschool.com/).
 > Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. We strive to help you learn by doing.
+
 ---
 
 ## Advanced Skill Level
@@ -53,6 +55,7 @@ Info taken from [About page](https://www.hackerrank.com/aboutus).
 ### [LeetCode](https://leetcode.com/)
 Info taken from [Main page](https://leetcode.com/).
 > LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+
 ---
 
 ## Classroom Style Learning
@@ -63,14 +66,15 @@ Info taken from [About page](https://www.launchcode.org/about).
 
 ### [EdX](https://www.edx.org/)
 Info taken from [About page](https://www.edx.org/about-us).
-> Increase access to high-quality education for everyone, everywhere
-> Enhance teaching and learning on campus and online
-> Advance teaching and learning through research
+> Increase access to high-quality education for everyone, everywhere.
+> Enhance teaching and learning on campus and online.
+> Advance teaching and learning through research.
 > At edX, we take our mission of increasing global access to quality education seriously. We connect learners to the best universities and institutions from around the world. Join us!
 
 ### [Udacity](https://www.udacity.com/)
 Info taken from [About page](https://www.udacity.com/us).
 > Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, to build the lives they deserve.
+
 ---
 
 ## Projects and blogs for Makers
@@ -80,6 +84,7 @@ Info taken from [About page](https://www.udacity.com/us).
 [Arduino](https://www.arduino.cc/)
 
 [Make DIY Projects](https://makezine.com/)
+
 ---
 
 ## Parts and Tools for Maker Projects
@@ -89,9 +94,11 @@ Info taken from [About page](https://www.udacity.com/us).
 [SparkFun Electronics](https://www.sparkfun.com/)
 
 [MakerBot](https://www.makerbot.com/)
+
 ---
 
 ## Resources for Questions and Answers
 
 [Stack Overflow](https://stackoverflow.com/)
+
 ---
