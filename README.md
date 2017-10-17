@@ -51,22 +51,33 @@ Info taken from [About page](https://www.hackerrank.com/aboutus).
 > The HackerRank team is on a mission to match every developer in the world to the right job by providing a technical recruiting platform that assesses developers based on actual coding skills. Our solution is revolutionizing the way companies discover and evaluate talented developers. HackerRank is the destination for the best developers to hone their skills and for companies to find top software developers.
 
 ### [LeetCode](https://leetcode.com/)
-Info taken from [Main page](https://leetcode.com/)
+Info taken from [Main page](https://leetcode.com/).
 > LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
 ---
 
 ## Classroom Style Learning
 
-[LaunchCode](https://www.launchcode.org/)
+### [LaunchCode](https://www.launchcode.org/)
+Info taken from [About page](https://www.launchcode.org/about).
+> LaunchCode is building a skilled workforce by creating pathways for driven people seeking careers in technology. We are helping jobseekers enter the tech field by providing accessible education, training and paid apprenticeship job placement.
 
-[EdX](https://www.edx.org/)
+### [EdX](https://www.edx.org/)
+Info taken from [About page](https://www.edx.org/about-us).
+> Increase access to high-quality education for everyone, everywhere
+> Enhance teaching and learning on campus and online
+> Advance teaching and learning through research
+> At edX, we take our mission of increasing global access to quality education seriously. We connect learners to the best universities and institutions from around the world. Join us!
 
-[Udacity](https://www.udacity.com/)
+### [Udacity](https://www.udacity.com/)
+Info taken from [About page](https://www.udacity.com/us).
+> Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, to build the lives they deserve.
 ---
 
 ## Projects and blogs for Makers
 
 [Raspberry Pi](https://www.raspberrypi.org/)
+
+[Arduino](https://www.arduino.cc/)
 
 [Make DIY Projects](https://makezine.com/)
 ---
@@ -76,6 +87,8 @@ Info taken from [Main page](https://leetcode.com/)
 [Adafruit Industries](https://www.adafruit.com/)
 
 [SparkFun Electronics](https://www.sparkfun.com/)
+
+[MakerBot](https://www.makerbot.com/)
 ---
 
 ## Resources for Questions and Answers
