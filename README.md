@@ -81,13 +81,21 @@ Info taken from [About page](https://www.udacity.com/us).
 
 ---
 
-## Projects and blogs for Makers
+## Projects and Blogs for Makers
 
-[Raspberry Pi](https://www.raspberrypi.org/)
+Various sites with blogs, projects, and tutorials to get you started making projects.
 
-[Arduino](https://www.arduino.cc/)
+### [Raspberry Pi](https://www.raspberrypi.org/)
+Info taken from [About page](https://www.raspberrypi.org/about/).
+> The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world, so they are capable of understanding and shaping our increasingly digital world, able to solve the problems that matter to them, and equipped for the jobs of the future.
 
-[Make DIY Projects](https://makezine.com/)
+### [Arduino](https://www.arduino.cc/)
+Info taken from [About page](https://www.arduino.cc/en/Main/AboutUs).
+> Arduino is the world’s leading open-source hardware and software ecosystem. The Company offers a range of software tools, hardware platforms and documentation enabling almost anybody to be creative with technology.
+
+### [Make DIY Projects](https://makezine.com/)
+Info taken from [About page](https://makermedia.com/?utm_source=makezine&utm_campaign=makezinefooter).
+> The Maker Movement embraces innovation, creativity, and learning to improve our communities and create a better future. Tinkerers, educators, parents, and professionals are included, because we are all Makers. That includes you. What will you make?
 
 ---
 
