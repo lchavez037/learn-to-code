@@ -43,6 +43,8 @@ Info taken from [Main page](https://www.codeschool.com/).
 
 ## Advanced Skill Level
 
+Take the skills you have learned and apply them to various challenges. 
+
 ### [CodeWars](https://www.codewars.com/)
 Info taken from [About page](https://www.codewars.com/about).
 > Achieve code mastery through challenge.
@@ -59,6 +61,8 @@ Info taken from [Main page](https://leetcode.com/).
 ---
 
 ## Classroom Style Learning
+
+Many lectures in computer science are available to view from various universities.
 
 ### [LaunchCode](https://www.launchcode.org/)
 Info taken from [About page](https://www.launchcode.org/about).
