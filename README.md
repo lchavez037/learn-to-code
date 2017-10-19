@@ -35,7 +35,7 @@ Info taken from [Main page](https://www.dataquest.io/).
 > Our hands-on method teaches you all the skills you need to become a data scientist, data analyst, or data engineer.
 > Learn by writing code, working with data, and building projects in your browser.
 
-### [Code Schoool](https://www.codeschool.com/)
+### [Code School](https://www.codeschool.com/)
 Info taken from [Main page](https://www.codeschool.com/).
 > Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts. We strive to help you learn by doing.
 
