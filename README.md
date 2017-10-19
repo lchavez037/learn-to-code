@@ -101,16 +101,28 @@ Info taken from [About page](https://makermedia.com/?utm_source=makezine&utm_cam
 
 ## Parts and Tools for Maker Projects
 
-[Adafruit Industries](https://www.adafruit.com/)
+Find the latest parts and tools to use in your maker projects.
 
-[SparkFun Electronics](https://www.sparkfun.com/)
+### [Adafruit Industries](https://www.adafruit.com/)
+Info taken from [About page](https://www.adafruit.com/about).
+> Adafruit was founded in 2005 by MIT hacker & engineer, Limor "Ladyada" Fried. Her goal was to create the best place online for learning electronics and making the best designed products for makers of all ages and skill levels. Adafruit has grown to over 100+ employees in the heart of NYC with a 50,000+ sq ft. factory. Adafruit has expanded offerings to include tools, equipment and electronics that Limor personally selects, tests and approves before going in to the Adafruit store.
 
-[MakerBot](https://www.makerbot.com/)
+### [SparkFun Electronics](https://www.sparkfun.com/)
+Info taken from [About page](https://www.sparkfun.com/about_sparkfun).
+> Since 2003, SparkFun has been committed to helping the world achieve electronics literacy. No matter your vision or skill level, our products and resources are designed to make electronics more accessible. In addition to over 2,000 open source components and widgets, SparkFun offers curriculum, training and online tutorials designed to demystify the wonderful world of embedded electronics. We're here to help you start something.
+
+### [MakerBot](https://www.makerbot.com/)
+Info taken from [About page](https://www.makerbot.com/about-us/).
+> MakerBot believes there's an innovator in everyone. As a global leader in desktop 3D printing, we set the standard in reliability and ease-of-use by providing effective solutions for every stage of the desktop 3D printing process. From the start, we have also redefined what's possible for makers of all walks by introducing many industry firsts.
 
 ---
 
 ## Resources for Questions and Answers
 
-[Stack Overflow](https://stackoverflow.com/)
+Best place to go if you are stuck and not sure what is wrong with your project.
+
+### [Stack Overflow](https://stackoverflow.com/)
+Info taken from [About page](https://stackoverflow.com/company).
+> Founded in 2008, Stack Overflow is the largest, most trusted online community for developers to learn, share their knowledge, and build their careers. More than 50 million professional and aspiring programmers visit Stack Overflow each month to help solve coding problems, develop new skills, and find job opportunities.
 
 ---
